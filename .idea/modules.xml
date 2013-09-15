@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week3/Homework/3.14/3.14.iml" filepath="$PROJECT_DIR$/Week3/Homework/3.14/3.14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3/Homework/3.15/3.15.iml" filepath="$PROJECT_DIR$/Week3/Homework/3.15/3.15.iml" />
       <module fileurl="file://$PROJECT_DIR$/FA13-CMPR-112.iml" filepath="$PROJECT_DIR$/FA13-CMPR-112.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week2/Week2.iml" filepath="$PROJECT_DIR$/Week2/Week2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week3/Week3.iml" filepath="$PROJECT_DIR$/Week3/Week3.iml" />
